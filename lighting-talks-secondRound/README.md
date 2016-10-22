@@ -4,18 +4,18 @@
 
 - Diferencias entre crear componentes con `React.createClass({})` y clases de ES6 ?
 - Cuando usar shouldComponentUpdate ?
-- Que es `graphQl` ?
+- Que es `graphQl` ? ···Maria···
 - Que es `Flow` ?
 - Como saber si algun dato debe estar en el estado de mi componente o no ?
 - Como saber en que componente poner determinado estado ?
-- Cuando usar un `Stateless Component` y por que es una buena idea usarlos ?
+- Cuando usar un `Stateless Component` y por que es una buena idea usarlos ? 
 
 ## Mobile!
 
 - Cual es la diferencia entre un `Hybrid App` y un app `Nativo` ?
 - Que `Navigator` usar con react-native ?
 - Como y que es `Linking Libreries` en react-native ?
-- Como funcionan los `Gestos` o eventos en react-native ?
+- Como funcionan los `Gestos` o eventos en react-native ? ···Maria···
 
 ## Firebase!
 
@@ -26,12 +26,12 @@
 ## Webpack!
 
 - Que es `Code Spliting` ?
-- Que es `Tree Shaking` ?
+- Que es `Tree Shaking` ?  ···Maria···
 - Que plugins de webpack debo usar para dejar mi codigo listo para produccion ?
 
 ## Future Javascript.
 
-- Como funciona `Object.assign()` ?
+- Como funciona `Object.assign()` ? ··· Maria ···
 - Que es `async/await` ?
 
 
