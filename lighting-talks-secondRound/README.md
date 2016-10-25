@@ -2,19 +2,19 @@
 
 ##  React!
 
-- Diferencias entre crear componentes con `React.createClass({})` y clases de ES6 ?
+- Diferencias entre crear componentes con `React.createClass({})` y clases de ES6 ? ANGIE
 - Cuando usar shouldComponentUpdate ? (DIEGO :V)
 - Que es `graphQl` ? ···Maria···
-- Que es `Flow` ?
+- Que es `Flow` ? ANGIE
 - Como saber si algun dato debe estar en el estado de mi componente o no ?
 - Como saber en que componente poner determinado estado ?
-- Cuando usar un `Stateless Component` y por que es una buena idea usarlos ? 
+- Cuando usar un `Stateless Component` y por que es una buena idea usarlos ? ANGIE
 
 ## Mobile!
 
 - Cual es la diferencia entre un `Hybrid App` y un app `Nativo` ? (DIEGO :V)
 - Que `Navigator` usar con react-native ? (DIEGO :V)
-- Como y que es `Linking Libreries` en react-native ?
+- Como y que es `Linking Libreries` en react-native ?ANGIE
 - Como funcionan los `Gestos` o eventos en react-native ? ···Maria···
 
 ## Firebase!
